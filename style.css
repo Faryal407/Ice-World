@@ -4,6 +4,9 @@
 .pointer{
     cursor: pointer;
 }
+.card{
+     box-shadow: 10px 10px 20px gray;
+}
 .image{
    transition: 2s all;
 
