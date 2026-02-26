@@ -4,3 +4,10 @@
 .pointer{
     cursor: pointer;
 }
+.image{
+   transition: 2s all;
+
+}
+.image:hover{
+   transform: translateY(-30px);
+}
